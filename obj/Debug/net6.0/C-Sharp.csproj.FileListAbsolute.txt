@@ -1,0 +1,15 @@
+D:\PROJECTS\C-Sharp\bin\Debug\net6.0\C-Sharp.exe
+D:\PROJECTS\C-Sharp\bin\Debug\net6.0\C-Sharp.deps.json
+D:\PROJECTS\C-Sharp\bin\Debug\net6.0\C-Sharp.runtimeconfig.json
+D:\PROJECTS\C-Sharp\bin\Debug\net6.0\C-Sharp.dll
+D:\PROJECTS\C-Sharp\bin\Debug\net6.0\C-Sharp.pdb
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.AssemblyReference.cache
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfoInputs.cache
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.AssemblyInfo.cs
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.dll
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\refint\C-Sharp.dll
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.pdb
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\C-Sharp.genruntimeconfig.cache
+D:\PROJECTS\C-Sharp\obj\Debug\net6.0\ref\C-Sharp.dll
