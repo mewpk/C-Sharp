@@ -10,6 +10,10 @@ namespace Level2
         public int age;
         public double height;
         public string[] friends;
+
+        public void setName(string nameValue){
+            name = nameValue;
+        }
     }
     class Program
     {
