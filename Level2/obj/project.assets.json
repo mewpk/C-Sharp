@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\milza\\.nuget\\packages\\": {}
+    "C:\\Users\\MewPk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECTS\\C-Sharp\\C-Sharp.csproj",
+      "projectUniqueName": "C:\\Users\\MewPk\\OneDrive\\Desktop\\Project\\C-Sharp\\Level2\\C-Sharp.csproj",
       "projectName": "C-Sharp",
-      "projectPath": "D:\\PROJECTS\\C-Sharp\\C-Sharp.csproj",
-      "packagesPath": "C:\\Users\\milza\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECTS\\C-Sharp\\obj\\",
+      "projectPath": "C:\\Users\\MewPk\\OneDrive\\Desktop\\Project\\C-Sharp\\Level2\\C-Sharp.csproj",
+      "packagesPath": "C:\\Users\\MewPk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MewPk\\OneDrive\\Desktop\\Project\\C-Sharp\\Level2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\milza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MewPk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
