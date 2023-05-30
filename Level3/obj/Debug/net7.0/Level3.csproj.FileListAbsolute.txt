@@ -1,0 +1,15 @@
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\bin\Debug\net7.0\Level3.exe
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\bin\Debug\net7.0\Level3.deps.json
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\bin\Debug\net7.0\Level3.runtimeconfig.json
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\bin\Debug\net7.0\Level3.dll
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\bin\Debug\net7.0\Level3.pdb
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.csproj.AssemblyReference.cache
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.AssemblyInfoInputs.cache
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.AssemblyInfo.cs
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.csproj.CoreCompileInputs.cache
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.dll
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\refint\Level3.dll
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.pdb
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\Level3.genruntimeconfig.cache
+C:\Users\MewPk\OneDrive\Desktop\Project\C-Sharp\Level3\obj\Debug\net7.0\ref\Level3.dll
