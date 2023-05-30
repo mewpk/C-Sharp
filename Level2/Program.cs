@@ -4,6 +4,8 @@ using System;
 
 namespace Level2
 {
+
+    // struct 
     struct Student
     {
         public string name;
@@ -11,9 +13,21 @@ namespace Level2
         public double height;
         public string[] friends;
 
-        public void setName(string nameValue){
+        public void setName(string nameValue)
+        {
             name = nameValue;
         }
+    }
+
+    // enum 
+
+    enum Role
+    {
+        Administrator,
+        Student,
+        Instructor,
+        Guest,
+
     }
     class Program
     {
@@ -130,6 +144,43 @@ namespace Level2
 
             Console.ReadKey();
 
+            // Enum 
+            Console.WriteLine("Role : {0}", (int)Role.Administrator);
+            Console.ReadKey();
+
+
+            // Try Catch
+            try
+            {
+                Console.WriteLine("Testing Try Catch");
+            }
+            catch (System.Exception)
+            {
+                
+                throw;
+            }
+
+            // Try Finally
+
+            try
+            {   
+                int number1, number2;
+                Console.Write("Type ur number :");
+                int.TryParse(Console.ReadLine(),out number1);
+                Console.Write("Type ur number :");
+                int.TryParse(Console.ReadLine(),out number2);  
+                Console.WriteLine("{0} + {1} = {2}" , number1 , number2 , number1+number2);
+
+            }
+            catch (System.Exception)
+            {
+                
+                throw;
+            }
+            finally
+            {
+                Console.ReadKey();
+            }
         }
     }
 }
